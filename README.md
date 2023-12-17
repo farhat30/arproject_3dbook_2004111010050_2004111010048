@@ -1,2 +1,3 @@
-# arproject_3dbook_2004111010050_2004111010048
-3dbook_arproject
+# AR-Furniture
+Augmented Reality android app to visualize furniture.
+with ViedoNode in AR Scene
